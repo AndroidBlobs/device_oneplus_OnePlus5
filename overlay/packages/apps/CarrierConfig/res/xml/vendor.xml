@@ -72,6 +72,8 @@
     <carrier_config mcc="202" mnc="02" />
     <carrier_config mcc="204" mnc="02" />
     <carrier_config mcc="204" mnc="04">
+        <boolean name="carrier_volte_available_bool" value="true" />
+        <boolean name="vendor_hide_volte_settng_ui" value="true" />
         <boolean name="check_mobile_data_for_cf" value="true" />
     </carrier_config>
     <carrier_config mcc="204" mnc="04" iccid="898603,898611,8985231,8985302,8985307">

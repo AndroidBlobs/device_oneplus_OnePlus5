@@ -157,6 +157,7 @@ PRODUCT_PACKAGES += \
     init.target.rc \
     kmemleak.sh \
     fstab.qcom \
+    fstab_nodata.qcom \
     ueventd.qcom.rc \
 
 # Seccomp
